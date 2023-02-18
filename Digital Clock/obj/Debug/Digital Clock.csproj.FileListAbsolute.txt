@@ -1,0 +1,11 @@
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.AssemblyReference.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
